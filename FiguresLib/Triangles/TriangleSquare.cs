@@ -5,13 +5,13 @@ using FiguresLib.Services;
 
 namespace FiguresLib.Triangles
 {
-    public class TriangleSquare // базовый класс, содержащий св-ва для всех способов поиска площади у треуг
+    public class TriangleSquare // базовый класс, хранящий все св-ва, которые нужны в разных методах поиска площади у треугольника
     {
-        public double SideA { get; set; }
-        public double SideB { get; set; }
-        public double SideC { get; set; }
-        public double Height { get; set; }
-        public double Angle { get; set; }
+        protected double SideA { get; set; }
+        protected double SideB { get; set; }
+        protected double SideC { get; set; }
+        protected double Height { get; set; }
+        protected double Angle { get; set; }
         
 
     }
