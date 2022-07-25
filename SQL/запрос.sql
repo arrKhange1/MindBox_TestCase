@@ -1,0 +1,1 @@
+SELECT product_name, category_name FROM product_category RIGHT JOIN products ON product_category.product_id = products.product_id LEFT JOIN categories ON product_category.category_id = categories.category_id
