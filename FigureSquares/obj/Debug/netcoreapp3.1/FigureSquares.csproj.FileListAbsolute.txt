@@ -1,0 +1,17 @@
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\bin\Debug\netcoreapp3.1\FigureSquares.exe
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\bin\Debug\netcoreapp3.1\FigureSquares.deps.json
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\bin\Debug\netcoreapp3.1\FigureSquares.runtimeconfig.json
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\bin\Debug\netcoreapp3.1\FigureSquares.runtimeconfig.dev.json
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\bin\Debug\netcoreapp3.1\FigureSquares.dll
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\bin\Debug\netcoreapp3.1\FigureSquares.pdb
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\bin\Debug\netcoreapp3.1\FiguresLib.dll
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\bin\Debug\netcoreapp3.1\FiguresLib.pdb
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.csproj.AssemblyReference.cache
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.AssemblyInfoInputs.cache
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.AssemblyInfo.cs
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.csproj.CopyComplete
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.dll
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.pdb
+C:\Users\Артур\source\repos\FigureSquares\FigureSquares\obj\Debug\netcoreapp3.1\FigureSquares.genruntimeconfig.cache

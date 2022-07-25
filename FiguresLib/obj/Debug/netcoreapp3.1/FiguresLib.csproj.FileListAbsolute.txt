@@ -1,0 +1,10 @@
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\bin\Debug\netcoreapp3.1\FiguresLib.deps.json
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\bin\Debug\netcoreapp3.1\FiguresLib.dll
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\bin\Debug\netcoreapp3.1\FiguresLib.pdb
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.csproj.AssemblyReference.cache
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.AssemblyInfoInputs.cache
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.AssemblyInfo.cs
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.csproj.CoreCompileInputs.cache
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.dll
+C:\Users\Артур\source\repos\FigureSquares\FiguresLib\obj\Debug\netcoreapp3.1\FiguresLib.pdb
