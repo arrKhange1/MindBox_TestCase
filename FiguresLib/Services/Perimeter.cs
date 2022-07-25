@@ -9,6 +9,8 @@ namespace FiguresLib.Services
     {
         public static double GetPerimeter(List<double> sides)
         {
+            if (sides.Count == 0)
+                return -1;
             return sides.Aggregate((currSide, nextSide) => currSide + nextSide);
         }
     }

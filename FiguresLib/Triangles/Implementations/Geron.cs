@@ -19,12 +19,15 @@ namespace FiguresLib.Triangles.Implementations
 
         public double GetSquare()
         {
-            var sides = new List<double>() { SideA, SideB, SideC };
-            if (!Validator.TriangleExist(SideA,SideB,SideC))
+            var sides = new List<double>() {SideA, SideB, SideC };
+            double perimeter = Perimeter.GetPerimeter(sides);
+            double halfPerimeter = perimeter / 2;
+
+            if (!Validator.TriangleExist(SideA,SideB,SideC) || perimeter == -1)
                 return -1;
 
-            double p = Perimeter.GetPerimeter(sides) / 2;
-            return Math.Sqrt(p * (p - SideA) * (p - SideB) * (p - SideC));
+            
+            return Math.Sqrt(halfPerimeter * (halfPerimeter - SideA) * (halfPerimeter - SideB) * (halfPerimeter - SideC));
         }
     }
 }
